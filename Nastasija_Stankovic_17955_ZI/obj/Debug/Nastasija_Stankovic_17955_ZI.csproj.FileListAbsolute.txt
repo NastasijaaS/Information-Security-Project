@@ -1,0 +1,39 @@
+C:\Users\User\source\repos\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\bin\Debug\Nastasija_Stankovic_17955_ZI.exe.config
+C:\Users\User\source\repos\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\bin\Debug\Nastasija_Stankovic_17955_ZI.exe
+C:\Users\User\source\repos\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\bin\Debug\Nastasija_Stankovic_17955_ZI.pdb
+C:\Users\User\source\repos\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.Pocetna.resources
+C:\Users\User\source\repos\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.Properties.Resources.resources
+C:\Users\User\source\repos\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.XXTEAForm.resources
+C:\Users\User\source\repos\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.exe
+C:\Users\User\source\repos\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.pdb
+C:\Users\User\source\repos\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.FSCForm.resources
+C:\Users\User\source\repos\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.OTPForm.resources
+C:\Users\User\source\repos\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\bin\Debug\Nastasija_Stankovic_17955_ZI.exe.config
+C:\Users\User\Desktop\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\bin\Debug\Nastasija_Stankovic_17955_ZI.exe
+C:\Users\User\Desktop\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\bin\Debug\Nastasija_Stankovic_17955_ZI.pdb
+C:\Users\User\Desktop\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.FSCForm.resources
+C:\Users\User\Desktop\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.OTPForm.resources
+C:\Users\User\Desktop\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.Pocetna.resources
+C:\Users\User\Desktop\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.Properties.Resources.resources
+C:\Users\User\Desktop\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.XXTEAForm.resources
+C:\Users\User\Desktop\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.exe
+C:\Users\User\Desktop\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.pdb
+C:\Users\User\Desktop\4.godina\I semestar\Zastita informacija\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\bin\Debug\Nastasija_Stankovic_17955_ZI.exe.config
+C:\Users\User\Desktop\4.godina\I semestar\Zastita informacija\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\bin\Debug\Nastasija_Stankovic_17955_ZI.exe
+C:\Users\User\Desktop\4.godina\I semestar\Zastita informacija\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\bin\Debug\Nastasija_Stankovic_17955_ZI.pdb
+C:\Users\User\Desktop\4.godina\I semestar\Zastita informacija\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\4.godina\I semestar\Zastita informacija\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.FSCForm.resources
+C:\Users\User\Desktop\4.godina\I semestar\Zastita informacija\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.OTPForm.resources
+C:\Users\User\Desktop\4.godina\I semestar\Zastita informacija\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.Pocetna.resources
+C:\Users\User\Desktop\4.godina\I semestar\Zastita informacija\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.Properties.Resources.resources
+C:\Users\User\Desktop\4.godina\I semestar\Zastita informacija\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.XXTEAForm.resources
+C:\Users\User\Desktop\4.godina\I semestar\Zastita informacija\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\4.godina\I semestar\Zastita informacija\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4.godina\I semestar\Zastita informacija\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.exe
+C:\Users\User\Desktop\4.godina\I semestar\Zastita informacija\Nastasija_Stankovic_17955_ZI\Nastasija_Stankovic_17955_ZI\obj\Debug\Nastasija_Stankovic_17955_ZI.pdb
